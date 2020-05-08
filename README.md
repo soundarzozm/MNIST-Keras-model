@@ -37,7 +37,7 @@ Note that Google Colab provides dedicated GPU and TPU from the Google servers.
 
 ## Author
 
-* **Soundar Murugan** - *Initial work* - [soundarzozm](https://github.com/soundarzozm)
+* **Soundar Murugan** - [soundarzozm](https://github.com/soundarzozm)
 
 ## License
 
@@ -45,7 +45,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Eijaz Allibhai - for the network architecture
 
