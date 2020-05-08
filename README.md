@@ -31,9 +31,9 @@ Note that Google Colab provides dedicated GPU and TPU from the Google servers.
 
 ## Built With
 
-* [Keras](http://www.https://keras.io/api/) - The programming framework used
+* [Keras](https://keras.io/api/) - The programming framework used
 * [Google Colab](https://colab.research.google.com/) - Notebook environment used
-* [Python](//https://docs.python.org/3/) - The programming language used
+* [Python](https://docs.python.org/3/) - The programming language used
 
 ## Author
 
